@@ -13,7 +13,7 @@ public class Jogo {
         this.numeroSorteado = r.nextInt(5) + 1; //motivos de teste para video
     }
 
-
+//teste commit
 
     public int getNumeroSorteado() {
         return numeroSorteado;
